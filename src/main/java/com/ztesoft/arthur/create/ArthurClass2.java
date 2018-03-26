@@ -6,5 +6,7 @@ public class ArthurClass2 {
         System.out.print("arthur changed!");
         System.out.print("changed2changed2");
         System.out.print("Arthur-Git");
+        System.out.print("changed2");
+        System.out.print("Benjamin-GitHub");
     }//changedssssssssdfasdfa
 }

@@ -5,6 +5,9 @@ public class Demo3Class {
         System.out.print("arthur changed!");
         System.out.print("changed2");
         System.out.print("Arthur-Git");
-    }//dfadsfasdf
+    //dfadsfasdf
+        System.out.print("arthur add!");
+        System.out.print("Benjamin-GitHub add!");
+    }
 
 }
