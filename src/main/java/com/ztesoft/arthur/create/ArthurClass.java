@@ -4,7 +4,7 @@ public class ArthurClass {
     public static void main(String[] org){
         System.out.print("arthur add!");
 
-
+        System.out.print("arthur add!");
         //fsdfasdfad
     }
 }
