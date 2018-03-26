@@ -4,6 +4,7 @@ public class ArthurClass2 {
 
     public static void main(String[] org){
         System.out.print("arthur changed!");
-        System.out.print("changed2");
+        System.out.print("changed2changed2");
+        System.out.print("Arthur-Git");
     }//changedssssssssdfasdfa
 }
